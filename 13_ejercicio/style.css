@@ -1,0 +1,12 @@
+#titulo {
+    color: blue;
+}
+.especial {
+    color: yellow;
+}
+.necesario {
+    color: red;
+}
+.indispensable {
+    color: greenyellow;
+}

@@ -1,0 +1,45 @@
+h1 {
+    color: red;
+}
+
+header p {
+    color: blue;
+}
+
+.sombra h2 {
+    color: red;
+}
+
+section p {
+    color: blue;
+}
+
+.sombra {
+    border: 5px;
+    box-shadow: 2px 4px 2px 4px gray;
+}
+
+.badge-black {
+    background-color: black;
+    color: white;
+}
+
+ul > li {
+    color: orange;
+}
+
+ol {
+    color: green;
+}
+
+.text-danger {
+    color: red;
+}
+
+.text-success {
+    color: green;
+}
+
+.sombra text-danger {
+    color: red;
+}
